@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Ur Rehman</h1>
-<h3 align="center">Gen AI / NLP Engineer | RAG Systems | LLM Fine-Tuning</h3>
+<h3 align="center">Gen AI / Agentic AI | RAG Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asadurrehmansheikh/">
