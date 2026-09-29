@@ -17,8 +17,7 @@
 - 🤖 Gen AI Engineer building **RAG pipelines, chatbots, and fine-tuned LLMs**
 - 🏛️ Built **Adal-AI**, a Judiciary RAG System for the Ministry of Planning, Development & Special Initiatives — selected for the physical finals of a national AI Techathon in Islamabad
 - ☁️ Experience with **Azure AI Foundry, Azure AI Search, and Blob Storage** for production RAG chatbots
-- 🎓 MSc in Mathematics, University of Peshawar
-- 🌱 Currently deepening my skills in LLM fine-tuning (LoRA, QLoRA, PEFT) and applied NLP
+- 🌱 Having skills in LLM fine-tuning (LoRA, QLoRA, PEFT) and applied NLP
 - 💬 Ask me about LangChain, RAG, vector databases, and prompt engineering
 
 ---
